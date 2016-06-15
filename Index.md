@@ -16,7 +16,7 @@ this
 
 Interface
 
-access Modifers
+Access Modifers
 Constructors
 Method Overriding and overloading
 Polymorphisim
@@ -28,6 +28,7 @@ HashSet
 HashMap
 Nested Classes
 Inner Classes
+Anonoymous Classes
 Class Variables
 Enumerated Types
 Serialization
