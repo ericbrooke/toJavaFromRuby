@@ -18,3 +18,23 @@ public static int fooName(int a, int b) {
 1. fooName: name of the method
 1. a, b: formal parameters
 1. int a, int b: list of parameters
+
+##Inheritance
+**Ruby**
+```
+class ElvenSword < Sword  
+  def attack  
+    puts "Slash"  
+  end  
+end 
+```
+
+**Java**
+```
+class ElvenSword extends Sword {
+
+    // new fields and methods defining 
+    // a ElvenSword would go here
+
+}
+```
