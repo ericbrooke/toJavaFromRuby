@@ -5,6 +5,7 @@
  * SCREAMING_SNAKE_CASE for other constants.
 
 **Java**
+
 All variables and method names will be in camel case, constants will be in all caps with underscores, and classes will be in caps case.
 
 ##Method Defination 
