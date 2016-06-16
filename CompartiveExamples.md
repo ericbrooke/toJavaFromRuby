@@ -3,14 +3,14 @@
 
 **Ruby**
 ```
-def foo_method
+def foo_name(a, b)
   # stuff
 end
 ```
 **Java**
 ```
 public static int fooName(int a, int b) {
-  // body
+  // stuff
 }
 ```
 1. public static : modifier.
