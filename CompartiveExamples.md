@@ -1,3 +1,11 @@
+##Naming
+**Ruby**
+ * Use snake_case for symbols, methods, filenames and variables
+ * Use CamelCase for classes and modules
+ * SCREAMING_SNAKE_CASE for other constants.
+
+**Java**
+All variables and method names will be in camel case, constants will be in all caps with underscores, and classes will be in caps case.
 
 ##Method Defination 
 
