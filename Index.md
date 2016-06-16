@@ -1,21 +1,32 @@
-JVM - Java Virtual Machine
-JDK - Java Development Kit
-JRE
+
 
 Java Primitive Data Types
 
 ```
 int foo = 1;
 ```
-Getters and Setters
 
+
+Class Variables
+Enumerated Types
+Serialization
+
+##Classes
+* Nested Classes
+* Inner Classes
+* Anonoymous Classes
+
+##Data
+* ArrayList
+* HashSet
+* HashMap
+
+##Things to cover
+Getters and Setters
 Inheritance
 extends
-
-this
-
+this rather self
 Interface
-
 Access Modifers
 Constructors
 Method Overriding and overloading
@@ -23,12 +34,3 @@ Polymorphisim
 Exceptions
 Java Collections
 Implementations
-ArrayList
-HashSet
-HashMap
-Nested Classes
-Inner Classes
-Anonoymous Classes
-Class Variables
-Enumerated Types
-Serialization
