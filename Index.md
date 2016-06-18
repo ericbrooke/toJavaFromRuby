@@ -11,7 +11,7 @@ int foo = 1;
 
 
 ##Classes
-- [ ]  Nested Classes
+- [ ] Nested Classes
 - [ ] Inner Classes
 - [ ] Anonoymous Classes
 
@@ -30,10 +30,10 @@ int foo = 1;
 - [ ] Constructors
 - [ ] Method Overriding and overloading
 - [ ] Polymorphisim
-- [ ]Exceptions
-- [ ]Java Collections
-- [ ]Implementations
-- [ ]Class Variables
-- [ ]Enumerated Types
-- [ ]Serialization
+- [ ] Exceptions
+- [ ] Java Collections
+- [ ] Implementations
+- [ ] Class Variables
+- [ ] Enumerated Types
+- [ ] Serialization
 - [ ] Casting
