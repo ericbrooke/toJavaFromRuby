@@ -8,6 +8,20 @@
 
 All variables and method names will be in camel case, constants will be in all caps with underscores, and classes will be in caps case.
 
+##Declaring Varibales
+**Ruby**
+Dynamically typed, so you do not have to declare the type of the variable
+```
+ foo = 1
+ ```
+ 
+ **Java**
+ Is statically typed so you do have to declare the type of the variable
+ 
+```
+int foo = 1;
+```
+
 ##Method Defination 
 
 **Ruby**
