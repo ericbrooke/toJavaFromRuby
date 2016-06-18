@@ -61,3 +61,14 @@ class ElvenSword extends Sword {
 
 }
 ```
+##Casting
+**Ruby**
+```
+foo = 2
+foo_float = foo.to_f
+```
+**Java**
+```
+int foo = 2;
+float fooFloat = (float) foo;
+```
