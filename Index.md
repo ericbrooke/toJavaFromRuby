@@ -1,15 +1,6 @@
 
 **List everything we need to cover and tick when done**
 
-Java Primitive Data Types
-
-```
-int foo = 1;
-```
-
-
-
-
 ##Classes
 - [ ] Nested Classes
 - [ ] Inner Classes
@@ -21,6 +12,7 @@ int foo = 1;
 - [ ] HashMap
 
 ##Things to cover
+- [ ] Declaring Variables
 - [ ] Getters and Setters
 - [ ] Inheritance
 - [ ] extends
