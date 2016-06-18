@@ -72,3 +72,23 @@ foo_float = foo.to_f
 int foo = 2;
 float fooFloat = (float) foo;
 ```
+##Getters and Setters
+
+**Java**
+```
+class Vehicle {
+int speed = 0;
+int gear = 1;
+  // Start of getters and setters
+       public int getSpeed() {
+             return speed;
+       }
+       public void setSpeed(int s) {
+             speed = s;
+       public int getGear() {
+             return gear;
+       public void setGear(int g) {
+gear = g;
+// End of getters and setters
+}
+```
