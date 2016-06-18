@@ -32,19 +32,19 @@ This class implements the Set interface and permits the null element. This colle
 ```
 class TestHashSet {
   public static void main(String args[]) {
-  // Creating a HashSet
-  HashSet<String> androids = new HashSet<String>(); 
-  // Adding elements
-  androids.add("Cupcake");
-  androids.add("Cupcake");
-  androids.add("Eclair"); 
-  androids.add("Eclair"); 
-  androids.add("Gingerbread"); 
-  androids.add("Honeycomb"); 
-  androids.add("Ice Cream Sandwich"); 
-  androids.add("Jelly Bean");
+    // Creating a HashSet
+    HashSet<String> androids = new HashSet<String>(); 
+    // Adding elements
+    androids.add("Cupcake");
+    androids.add("Cupcake");
+    androids.add("Eclair"); 
+    androids.add("Eclair"); 
+    androids.add("Gingerbread"); 
+    androids.add("Honeycomb"); 
+    androids.add("Ice Cream Sandwich"); 
+    androids.add("Jelly Bean");
 
-  System.out.println("The contents of the HashSet: "+androids);
+    System.out.println("The contents of the HashSet: "+androids);
   } 
 }
 ```
