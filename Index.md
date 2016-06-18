@@ -1,4 +1,5 @@
 
+**List everything we need to cover and tick when done**
 
 Java Primitive Data Types
 
@@ -10,14 +11,14 @@ int foo = 1;
 
 
 ##Classes
--[ ]  Nested Classes
--[ ] Inner Classes
-* Anonoymous Classes
+- [ ]  Nested Classes
+- [ ] Inner Classes
+- [ ] Anonoymous Classes
 
 ##Data
--[ ] ArrayList
--[ ] HashSet
--[ ] HashMap
+- [ ] ArrayList
+- [ ] HashSet
+- [ ] HashMap
 
 ##Things to cover
 - [ ] Getters and Setters
