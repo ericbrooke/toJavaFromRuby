@@ -102,17 +102,20 @@ public interface IVehicle {
        void changeGear(int newValue);
        void speedUp(int increment);
  }
- 
+
+```
+Then the Vehicle class implements the IVehicle interface
+```
 class Vehicle implements IVehicle { int speed = 0;
  int gear = 1;
 
  public void changeGear(int newValue) {
         gear = newValue;
  }
-public void speedUp(int increment) {
+ public void speedUp(int increment) {
        speed = speed + increment; 
  }
-void printStates() {
+ void printStates() {
   System.out.println(" speed:" + speed + " gear:" + gear);
  } 
 }
