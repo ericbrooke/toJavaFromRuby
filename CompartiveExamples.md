@@ -95,3 +95,25 @@ class Vehicle {
   }
 }
 ```
+##Interfaces
+An interface is a contract between a class and the outside world. When a class implements an interface, it must provide the behavior specified by that interface.
+```
+public interface IVehicle {
+       void changeGear(int newValue);
+       void speedUp(int increment);
+ }
+ 
+class Vehicle implements IVehicle { int speed = 0;
+ int gear = 1;
+
+ public void changeGear(int newValue) {
+        gear = newValue;
+ }
+public void speedUp(int increment) {
+       speed = speed + increment; 
+ }
+void printStates() {
+  System.out.println(" speed:" + speed + " gear:" + gear);
+ } 
+}
+```
