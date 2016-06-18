@@ -48,3 +48,43 @@ class TestHashSet {
   } 
 }
 ```
+##HashMap
+
+This is a hash table based implementation of the Map interface. It allows null elements and does not add any methods of its own.
+
+```
+import java.util.*;
+class TestHashMap {
+  public static void main(String args[]) {
+  // Creating a HashMap
+  HashMap<String,Double> androids = new HashMap<String,Double>(); 
+  // Adding elements
+  androids.put("Cupcake", new Double(1.5) ); 
+  androids.put("Donut",new Double(1.6));
+  androids.put("Eclair", new Double(2.1)); 
+  androids.put("Froyo", new Double(2.2)); 
+  androids.put("Gingerbread", new Double(2.3)); 
+  androids.put("Honeycomb", new Double(3.1)); 
+  androids.put("Ice Cream Sandwich", new Double(4.0)); 
+  androids.put("Jelly Bean", new Double(4.1));
+  
+  // Get a set of the entries
+  Set<Map.Entry<String, Double>> set = androids.entrySet();
+  // Get an iterator
+  Iterator<Map.Entry<String, Double>> i = set.iterator();
+  // Display elements
+  while (i.hasNext()) {
+    Map.Entry<String, Double> me = (Map.Entry<String,Double>)
+                                    i.next();
+    System.out.print(me.getKey() + ": "); 
+    System.out.println(me.getValue());
+  }
+  System.out.println();
+  // Increase version number of Eclair
+  Double version = androids.get("Eclair"); 
+  androids.put("Eclair", new Double(version + 0.1)); 
+  System.out.println("New version number of Eclair: "
+                    + androids.get("Eclair"));
+  } 
+}
+```
