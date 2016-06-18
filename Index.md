@@ -25,7 +25,7 @@ int foo = 1;
 - [ ] Inheritance
 - [ ] extends
 - [ ] this rather self
-- [ ]Interface
+- [ ] Interface
 - [ ] Access Modifers
 - [ ] Constructors
 - [ ] Method Overriding and overloading
@@ -37,3 +37,4 @@ int foo = 1;
 - [ ] Enumerated Types
 - [ ] Serialization
 - [ ] Casting
+- [ ] Generics
