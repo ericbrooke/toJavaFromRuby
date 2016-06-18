@@ -1,3 +1,5 @@
+
+##Array List
 An Arraylist is a resizable-array implementation of the List interface. It implements all optional list operations, and permits all elements, including null. It also provides methods to manipulate the size of the array that is used internally to store the list.
 
 ```
