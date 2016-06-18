@@ -12,9 +12,9 @@
 - [ ] HashMap
 
 ##Things to cover
-- [x] Declaring Variables
+- [x] Declaring Variables - in compartive examples 
 - [ ] Getters and Setters
-- [x] Inheritance
+- [x] Inheritance - in compartive examples 
 - [ ] extends
 - [ ] this rather self
 - [ ] Interface
