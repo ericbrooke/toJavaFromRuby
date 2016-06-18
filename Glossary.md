@@ -5,3 +5,5 @@
 * Package - A package is a namespace that organizes a set of related classes and interfaces.
 * Casting - Convert a variable or object to another "type". For objects only works if the other type is part of the inheritance tree.
 * Autoboxing & Unboxing
+* Method Overloading - Within the same class, you can create two methods of the same name but differs in the number of arguments and their types. This is called method overloading. Note that changing the return type alone is not allowed to overload a method. You should change the parameters signature if needed.
+* Method overriding - occurs when a class inherits a method from a super class but provides its own implementation of that method. 
