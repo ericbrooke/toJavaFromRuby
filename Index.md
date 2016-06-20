@@ -30,6 +30,6 @@
 - [ ] Serialization
 - [ ] Casting
 - [ ] Generics
-- [ ] @Override
+- [ ] @Override (used when you create all lifecycle methods)
 - [ ] member variable is instance in Ruby
 - [ ] [hungarian notation](hungarian notation java)
