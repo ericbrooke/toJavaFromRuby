@@ -32,3 +32,4 @@
 - [ ] Generics
 - [ ] @Override
 - [ ] member variable is instance in Ruby
+- [ ] [hungarian notation](hungarian notation java)
