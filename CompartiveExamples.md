@@ -62,6 +62,7 @@ class ElvenSword extends Sword {
 }
 ```
 ##Casting
+Convert a variable or object to another "type". For objects, it only works if the other type is part of the inheritance tree.
 **Ruby**
 ```
 foo = 2
