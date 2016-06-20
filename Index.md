@@ -34,3 +34,4 @@
 - [ ] member variable is instance in Ruby
 - [ ] [hungarian notation](hungarian notation java)
 - [ ] Very basic XML
+- [ ] MVP basics
