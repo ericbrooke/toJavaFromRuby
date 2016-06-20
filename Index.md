@@ -31,3 +31,4 @@
 - [ ] Casting
 - [ ] Generics
 - [ ] @Override
+- [ ] member variable is instance in Ruby
