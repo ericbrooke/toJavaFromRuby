@@ -7,3 +7,7 @@ We will build out:
 1. High level [comparisons](Comparsion.md) between Ruby and Java
 1. [Comparative Examples](CompartiveExamples.md)
 1. [Glossary](Glossary.md) of Java terms
+
+[Big Nerd Ranch Android](https://www.goodreads.com/book/show/30654847-android-programming) Programming Book states the following:
+
+*You need to be familiar with Java, including classes and objects, interfaces, listeners, packages, inner classes, anonymous inner classes, and generic classes*
