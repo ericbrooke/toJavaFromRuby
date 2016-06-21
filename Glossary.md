@@ -10,4 +10,4 @@
 * **Class variables** - Member variables that have the static modifier in their declaration are called static
 fields or class variables. They are associated with the class, rather than with any object. Every instance of the class shares a class variable, which is saved in a fixed memory location. Any object can change the value of a class variable, but class variables can also be manipulated without creating an instance of the class.
 * **[Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation)** - A way to name variables, classes
-* Parcelable - Sharing complex data amongst Activities.  [How is it different to Serialization?](http://www.3pillarglobal.com/insights/parcelable-vs-java-serialization-in-android-app-development)
+* **Parcelable** - Sharing complex data amongst Activities.  [How is it different to Serialization?](http://www.3pillarglobal.com/insights/parcelable-vs-java-serialization-in-android-app-development)
